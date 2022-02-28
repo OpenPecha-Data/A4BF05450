@@ -1,0 +1,26 @@
+segment_sources:
+  P13622543:
+    type: origin_type
+    relation: translation
+    language: en
+  PEEE064E7:
+    type: origin_type
+    relation: translation
+    language: es
+  P6DC00F9D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  10ca6d4ade1840e998aa06626f5832cb:
+    P13622543: 2acff12c7da94093a832fa690edbdf0f
+    PEEE064E7: cc01510b3e624b759a4351825b08cde8
+    P6DC00F9D: 3a0cb83aa02a40b4865230a1af812952
+  279c5515ee32463db9cf856ea46189a8:
+    P13622543: e122303c803846b28c8f8b3a708fb10f
+    PEEE064E7: 3cf5484ad7584d3e85d8ca831e3170d0
+    P6DC00F9D: a16bbbab3ac24b6487fe236fe33a6137
+  514c578915e7465a9276b87403a58fe0:
+    P13622543: 0ad6870c4bf4402199663b8c9bf012d4
+    PEEE064E7: 6fb4b2cfa7144d1a844356a31767dafe
+    P6DC00F9D: 1a33c2c2a0cc4a6f8bd316906c5c7be7
